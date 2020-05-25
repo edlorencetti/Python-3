@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7a48dad-6f3d-4269-90ec-250882b40b1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ex112/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadecev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadecev/dados/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadecev/moeda/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex111/moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex111/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex111/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex111/utilidadecev/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex111/utilidadecev/moeda/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +42,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Usuario\PycharmProjects\pythonexercicios" />
+      <recent name="C:\Users\Usuario\PycharmProjects\pythonexercicios\ex109" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teste (4)">
+  <component name="RunManager" selected="Python.teste (5)">
     <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonexercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex107" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex112" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex107/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex112/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste (5)" />
         <item itemvalue="Python.teste (4)" />
         <item itemvalue="Python.teste (3)" />
         <item itemvalue="Python.teste (2)" />
         <item itemvalue="Python.teste (1)" />
-        <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
   </component>
@@ -189,22 +191,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1589759782906" />
-    <state width="1345" height="420" key="GridCell.Tab.0.bottom" timestamp="1590369351883">
+    <state width="1345" height="422" key="GridCell.Tab.0.bottom" timestamp="1590373898596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="420" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1590369351883" />
-    <state width="1345" height="420" key="GridCell.Tab.0.center" timestamp="1590369351883">
+    <state width="1345" height="422" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1590373898596" />
+    <state width="1345" height="422" key="GridCell.Tab.0.center" timestamp="1590373898596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="420" key="GridCell.Tab.0.center/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1590369351883" />
-    <state width="1345" height="420" key="GridCell.Tab.0.left" timestamp="1590369351883">
+    <state width="1345" height="422" key="GridCell.Tab.0.center/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1590373898596" />
+    <state width="1345" height="422" key="GridCell.Tab.0.left" timestamp="1590373898596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="420" key="GridCell.Tab.0.left/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1590369351883" />
-    <state width="1345" height="420" key="GridCell.Tab.0.right" timestamp="1590369351883">
+    <state width="1345" height="422" key="GridCell.Tab.0.left/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1590373898596" />
+    <state width="1345" height="422" key="GridCell.Tab.0.right" timestamp="1590373898596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="420" key="GridCell.Tab.0.right/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1590369351883" />
+    <state width="1345" height="422" key="GridCell.Tab.0.right/0.0.1366.728/1366.-30.1366.768@0.0.1366.728" timestamp="1590373898596" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1590360688726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
