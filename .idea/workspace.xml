@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7a48dad-6f3d-4269-90ec-250882b40b1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ex108/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex108/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex109/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex109/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex110/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex110/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex111/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex111/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex107/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex107/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex111/moeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex111/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex111/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex111/utilidadecev/moeda/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex111/utilidadecev/moeda/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
